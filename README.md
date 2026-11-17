@@ -24,7 +24,7 @@ Documentación general del sistema de reserva de turnos con profesionales. El si
 | [PLAN_DE_TRABAJO.md](PLAN_DE_TRABAJO.md) | Las cuatro etapas del proyecto |
 | [CRONOGRAMA.md](CRONOGRAMA.md) | Las tareas de cada día |
 | Arquitectura del sistema (etapa 4) | Diagrama con la app, los dos servicios, sus bases y las integraciones con la cátedra |
-| Contratos entre servicios (etapa 3) | Operaciones que turnos consume de catálogo, DTO, autenticación y errores |
+| [CONTRATOS_ENTRE_SERVICIOS.md](CONTRATOS_ENTRE_SERVICIOS.md) (etapa 3) | Operaciones que turnos consume de catálogo, DTO, autenticación (token técnico de servicio y JWT de usuario) y errores |
 | Seguridad (etapa 4) | JWT de usuario, token técnico de servicio y autorización entre componentes |
 | Ejecución del sistema completo (etapa 4) | Orden y pasos para levantar los dos servicios y la app juntos |
 
